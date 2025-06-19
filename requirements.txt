@@ -1,0 +1,10 @@
+atproto
+emoji
+langdetect
+pandas
+scikit-learn
+joblib
+sqlalchemy
+psycopg2
+transformers
+torch
